@@ -1,1 +1,3 @@
-# sample-code
+# Decoder-ring project
+
+
